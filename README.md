@@ -4,15 +4,9 @@ A collection of most useful tools for social media osint.
 
 ## Some of our useful products for OSINT loves -
 
-Free weekly OSINT Newsletter - [osintupdates.com](https://osintupdates.com)
+[OSINTverse](https://osintverse.com) is an OSINT ecosystem, Your go-to place for anything related to OSINT — tools in [SearchIn](https://osintverse.com/searchin), blogs and webinars on the Hub, and the community in the open. 
+SearchIn is a fully fledged investigation workspace — not a bookmark list. Start from an identifier, query every provider we integrate in one UI, compare structured results, and keep the trail in a case you can reopen. Prepaid credits. Your wallet or a shared team wallet.
 
-Get Free Tickets for OSINTCon - [osintconference.com](https://osintconference.com/)
-
-Best OSINT Tools Directory - [osinttools.io](https://osinttools.io)
-
-Your one-stop destination for the best OSINT resources  - [osintresources.com](https://www.osintresources.com/)
-
-Free OSINT eBooks and Guides - [osintambition.org](https://osinttools.io)
 
 ## Authors
 
