@@ -699,6 +699,10 @@ Search by location, relationships, and more!.
 18. **Tgstat RU**
     - Link: [Tgstat RU](https://tgstat.ru)
     - Description: A Russian platform for analyzing and monitoring Telegram channels and groups.
+
+19. **TGScope**
+    - Link: [TGScope](https://tgscope.io)
+    - Description: Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
       
 ## Discord
 1. **DiscordOSINT**
