@@ -703,6 +703,10 @@ Search by location, relationships, and more!.
 19. **TGScope**
     - Link: [TGScope](https://tgscope.io)
     - Description: Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.
+
+20. **TGScope Channel Creation Date**
+    - Link: [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date)
+    - Description: Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
       
 ## Discord
 1. **DiscordOSINT**
