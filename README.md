@@ -707,6 +707,10 @@ Search by location, relationships, and more!.
 20. **TGScope Channel Creation Date**
     - Link: [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date)
     - Description: Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
+
+21. **TGScope Channel Network Checker**
+    - Link: [TGScope Channel Network Checker](https://tgscope.io/tools/telegram-channel-network)
+    - Description: Shows which other Telegram channels list the same ad contact as a given channel, revealing networks run or sold by one owner or agency.
       
 ## Discord
 1. **DiscordOSINT**
